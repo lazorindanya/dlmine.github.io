@@ -6,7 +6,7 @@
 /*                                  Utilities                                 */
 /* -------------------------------------------------------------------------- */
 /*-----------------------------------------------
-|   Bootstrap Styles
+|   Bootstrap Styles background-color: #0e321f;
 -----------------------------------------------*/
 /*!
  * Bootstrap v5.0.0-alpha1 (https://getbootstrap.com/)
@@ -62,7 +62,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #a3ada4;
-  background-color: #0e321f;
+  background-color: #133323
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
