@@ -6,7 +6,7 @@
 /*                                  Utilities                                 */
 /* -------------------------------------------------------------------------- */
 /*-----------------------------------------------
-|   Bootstrap Styles background-color: #0e321f;
+|   Bootstrap Styles background-color: #0e321f; #133323
 -----------------------------------------------*/
 /*!
  * Bootstrap v5.0.0-alpha1 (https://getbootstrap.com/)
@@ -62,7 +62,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #a3ada4;
-  background-color: #133323;
+  background-color: #0c1e14;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -3529,7 +3529,7 @@ fieldset:disabled .btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #127433;
+  background-color: #00a650;
   border-color: #5dc762;
 }
 
